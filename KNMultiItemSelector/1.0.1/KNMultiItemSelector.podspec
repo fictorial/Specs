@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'KNMultiItemSelector'
-  s.version  = '1.0'
+  s.version  = '1.0.1'
   s.license  = 'MIT'
   s.summary  = 'KNMultiItemSelector is a versatile drop in multiple items selector for iOS projects.'
   s.homepage = 'https://github.com/kentnguyen/KNMultiItemSelector'
